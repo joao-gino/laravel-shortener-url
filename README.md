@@ -4,7 +4,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/especializati/setup-docker-laravel.git
+git clone https://github.com/joao-gino/laravel-shortener-url.git
 ```
 
 Clone os Arquivos do Laravel
